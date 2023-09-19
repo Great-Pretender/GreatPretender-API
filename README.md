@@ -41,3 +41,70 @@
 <img src="" width="300"/>
 </ul>
 <hr>
+<h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
+  <table align="left">
+    <thead>
+      <th>Nome</th>
+      <th>Foto</th>
+      <th>Função</th>
+      <th>Github</th>
+      <th>LinkedIn</th>
+    </thead>
+    <tbody>
+     <tr>
+      <td>Bianca Tuchtler de Araujo</td>
+        <td>
+          <img src= "" width="50px">
+        </td>
+      <td>Desenvolvedor(a)</td>
+      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+     </tr>
+     <tr>
+      <td>Felipe Augusto dos Santos Sousa</td>
+        <td>
+          <img src= "" width="50px">
+        </td>
+        <td>Product Owner</td>
+        <td><a href="https://github.com/FelipeASousa" width="30px"></a></td>
+        <td><a href="https://www.linkedin.com/in/felipe-s-89938418a" width="30px"/></a></td>
+     </tr>
+      <tr>
+      <td>Gabriel Da Costa Evangelista D Epiro</td>
+        <td>
+          <img src= "" width="50px">
+        </td>
+      <td>Desenvolvedor(a)</td>
+      <td><a href="" width="30px"></a></td>
+      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+     </tr>
+     <tr>
+      <td>Guilherme Alves Cursino</td>
+        <td>
+          <img src= "" width="50px">
+        </td>
+        <td>Desenvolvedor(a)</td>
+        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+     </tr>
+     <tr>
+     <tr>
+      <td>Leonardo Adler Da Silva</td>
+        <td>
+          <img src= "" width="50px">
+        </td>
+        <td>Desenvolvedor</td>
+        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+     </tr>
+     <tr>
+      <td>Vitor Luiz Rodrigues de Lima</td>
+        <td>
+          <img src= "" width="50px">
+        </td>
+        <td>Desenvolvedor</td>
+        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href=""><img src="" width="30px"/></a></td>
+     </tr>
+    </tbody>
+  </table>
