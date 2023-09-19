@@ -66,8 +66,8 @@
           <img src= "" width="50px">
         </td>
         <td>Product Owner</td>
-        <td><a href="https://github.com/FelipeASousa" width="30px"></a></td>
-        <td><a href="https://www.linkedin.com/in/felipe-s-89938418a" width="30px"/></a></td>
+        <td><a href="https://github.com/FelipeASousa" width="30px"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href="https://www.linkedin.com/in/felipe-s-89938418a" width="30px"/><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
       <tr>
       <td>Gabriel Da Costa Evangelista D Epiro</td>
@@ -104,7 +104,7 @@
         </td>
         <td>Desenvolvedor</td>
         <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-        <td><a href=""><img src="" width="30px"/></a></td>
+        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
     </tbody>
   </table>
