@@ -75,7 +75,7 @@
           <img src= "" width="50px">
         </td>
       <td>Desenvolvedor(a)</td>
-      <td><a href="https://github.com/GabrielDepiro"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+      <td><a href="https://github.com/GabrielDepiro"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
       <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
