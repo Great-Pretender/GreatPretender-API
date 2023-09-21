@@ -2,7 +2,7 @@
 <h1 align="center">Aprendizagem pro Projetos Integrados</h1>
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
-<img src="" width="400" height="250" align="center"/>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/imgs/Logo.png" width="400" height="250" align="center"/>
 </p>  
 
 <h2 align="center">Jaia</h2>
@@ -33,12 +33,12 @@
 
 <h3> :pushpin: Product Backlog</h3>
 <ul>
-<img src="" width="300"/>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/backlog_do_produto.png" width="300"/>
 </ul>
 <hr>
 <h3> :pushpin: User Stories</h3>
 <ul>
-<img src="" width="300"/>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png" width="300"/>
 </ul>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
