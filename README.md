@@ -33,12 +33,12 @@
 
 <h3> :pushpin: Product Backlog</h3>
 <ul>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/backlog_do_produto.png" width="300"/>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/backlog_do_produto.png?raw=true" width="300"/>
 </ul>
 <hr>
 <h3> :pushpin: User Stories</h3>
 <ul>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png" width="300"/>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png?raw=true" width="300"/>
 </ul>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
