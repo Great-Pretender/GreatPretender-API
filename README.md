@@ -63,7 +63,7 @@
 <h3> :pushpin: Ferramentas Utilizadas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg)" />
+    <img src="(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
   </a>
 </p>
 <hr>
