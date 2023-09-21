@@ -57,12 +57,12 @@
 <hr>
 <h3> :clipboard: Atividades por Sprint</h3>
 <ul>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png?raw=true" width="800"/>
+<img src=""/>
 </ul>
 <hr>
 <h3> :pushpin: Ferramentas Utilizadas</h3>
 <ul>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png?raw=true" width="800"/>
+<img src=""/>
 </ul>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
