@@ -61,9 +61,17 @@
 </ul>
 <hr>
 <h3> :pushpin: Ferramentas Utilizadas</h3>
-<ul>
-<img src=""/>
-</ul>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
   <table align="left">
