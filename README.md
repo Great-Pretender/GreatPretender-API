@@ -63,7 +63,7 @@
      <tr>
       <td>Felipe Augusto dos Santos Sousa</td>
         <td>
-          <img src= "" width="50px">
+          <img src= "https://avatars.githubusercontent.com/u/79467858?v=4" width="50px">
         </td>
         <td>Product Owner</td>
         <td><a href="https://github.com/FelipeASousa" width="30px"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
