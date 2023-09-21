@@ -10,8 +10,7 @@
 <p align="center">
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
-    <a href =""> Requisitos do Cliente</a>  • 
-    <a href =""> Requisitos Não Funcionais</a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#arrows_counterclockwise-sprints"> Sprints</a>  • 
     <a href =""> Ferramentas Utilizadas</a>  • 
     <a href =""> Atividades Por Sprint </a>  • 
@@ -46,12 +45,22 @@
 
 <hr>
 
-<h3> :pushpin: Product Backlog</h3>
+<h3> :bookmark_tabs: Product Backlog</h3>
 <ul>
 <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/backlog_do_produto.png?raw=true" width="800"/>
 </ul>
 <hr>
-<h3> :pushpin: User Stories</h3>
+<h3> :receipt: User Stories</h3>
+<ul>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png?raw=true" width="800"/>
+</ul>
+<hr>
+<h3> :clipboard: Atividades por Sprint</h3>
+<ul>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png?raw=true" width="800"/>
+</ul>
+<hr>
+<h3> :pushpin: Ferramentas Utilizadas</h3>
 <ul>
 <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/user_stories.png?raw=true" width="800"/>
 </ul>
