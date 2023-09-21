@@ -8,26 +8,26 @@
 <h2 align="center">Jaia</h2>
 
 <p align="center">
-    <a href =""> Equipe </a>  •
-    <a href =""> Objetivos do Projeto</a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
     <a href =""> Requisitos do Cliente</a>  • 
     <a href =""> Requisitos Não Funcionais</a>  • 
-    <a href =""> Sprints</a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#arrows_counterclockwise-sprints"> Sprints</a>  • 
     <a href =""> Ferramentas Utilizadas</a>  • 
     <a href =""> Atividades Por Sprint </a>  • 
-    <a href =""> Wireframe </a>  •
-    <a href =""> Backlog </a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-product-backlog"> Backlog </a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-user-stories"> User Stories </a>  • 
 </p> 
 <hr>
 <h3> :dart: Objetivos do Projeto</h3>
 <p>------------------</p>
 <hr>
 <h3>:arrows_counterclockwise: Sprints</h3>
-<p>:white_check_mark: Kick-off do Projeto - xx/xx À xx/xx</p>
-<p>:white_check_mark: <a href=""> Sprint 1 </a>- xx/xx À xx/xx</p>
-<p>:white_check_mark: <a href=""> Sprint 2 </a> - xx/xx À xx/xx</p>
-<p>:white_check_mark: <a href=""> Sprint 3 </a> - xx/xx À xx/xx</p>
-<p>:white_check_mark: <a href=""> Sprint 4 </a> - xx/xx À xx/xx</p>
+<p>:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p>
+<p>:white_check_mark: <a href=""> Sprint 1 </a>- 04/09 À 24/09</p>
+<p>:white_check_mark: <a href=""> Sprint 2 </a> - 25/09 À 15/10</p>
+<p>:white_check_mark: <a href=""> Sprint 3 </a> - 16/10 À 05/11</p>
+<p>:white_check_mark: <a href=""> Sprint 4 </a> - 06/11 À 26/11</p>
 
 <hr>
 
@@ -75,7 +75,7 @@
           <img src= "" width="50px">
         </td>
       <td>Desenvolvedor(a)</td>
-      <td><a href="" width="30px"></a></td>
+      <td><a href="https://github.com/GabrielDepiro"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
       <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
@@ -84,7 +84,7 @@
           <img src= "" width="50px">
         </td>
         <td>Desenvolvedor(a)</td>
-        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href="https://github.com/guilherme0066"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
         <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
@@ -94,7 +94,7 @@
           <img src= "" width="50px">
         </td>
         <td>Desenvolvedor</td>
-        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href="https://github.com/LeoAdlerr"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
         <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
@@ -103,7 +103,7 @@
           <img src= "" width="50px">
         </td>
         <td>Desenvolvedor</td>
-        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+        <td><a href="https://github.com/VilRL"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
         <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
     </tbody>
