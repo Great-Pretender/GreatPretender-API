@@ -20,8 +20,23 @@
 </p> 
 <hr>
 <h3> :dart: Objetivos do Projeto</h3>
-<p>------------------</p>
+<p>Criar um sistema de Inspeção Predial com a finalidade de gerenciar manutenções preventivas e corretivas de edificações.</p>
 <hr>
+
+<h3> :dart: Requisitos do Cliente</h3>
+<p>Criar um sistema de Inspeção Predial com a finalidade de gerenciar manutenções preventivas e corretivas de edificações.</p>
+<ul>
+<li>Ordem de Serviços.</li>
+<li>Usuários devem ter perfis diferentes (responsável pelo cadastro, abertura de OS, Supervisor de Serviço e executor) Confirmação de cada etapa.</li>
+<li>Método e regra: Seguir as etapas padrões na operação. Cadastro do cliente, níveis de inspeções, laudo de inspeção e controle dos níveis.</li>
+<li>Alçadas por responsáveis. Ex: Síndico, Zelador, engenheiro e outros.</li>
+<li>Cliente pode solicitar a prestação de serviço através de uma landing Page ou QRCODE.</li>
+<li>Recepção da prestação de Serviço e direcionamento para o técnico responsável.</li>
+<li>Agendamento e envio da demanda aos responsáveis.</li>
+<li>Navegabilidade e Comunicação visuais user friend.</li>
+</ul>
+<hr>
+
 <h3>:arrows_counterclockwise: Sprints</h3>
 <p>:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p>
 <p>:white_check_mark: <a href=""> Sprint 1 </a>- 04/09 À 24/09</p>
@@ -72,7 +87,7 @@
       <tr>
       <td>Gabriel Da Costa Evangelista D Epiro</td>
         <td>
-          <img src= "" width="50px">
+          <img src= "https://avatars.githubusercontent.com/u/90358435?v=4" width="50px">
         </td>
       <td>Desenvolvedor(a)</td>
       <td><a href="https://github.com/GabrielDepiro"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
@@ -81,7 +96,7 @@
      <tr>
       <td>Guilherme Alves Cursino</td>
         <td>
-          <img src= "" width="50px">
+          <img src= "https://avatars.githubusercontent.com/u/79579209?v=4" width="50px">
         </td>
         <td>Desenvolvedor(a)</td>
         <td><a href="https://github.com/guilherme0066"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
@@ -91,7 +106,7 @@
      <tr>
       <td>Leonardo Adler Da Silva</td>
         <td>
-          <img src= "" width="50px">
+          <img src= "https://avatars.githubusercontent.com/u/88751032?v=4" width="50px">
         </td>
         <td>Desenvolvedor</td>
         <td><a href="https://github.com/LeoAdlerr"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
@@ -100,7 +115,7 @@
      <tr>
       <td>Vitor Luiz Rodrigues de Lima</td>
         <td>
-          <img src= "" width="50px">
+          <img src= "https://avatars.githubusercontent.com/u/56142288?v=4" width="50px">
         </td>
         <td>Desenvolvedor</td>
         <td><a href="https://github.com/VilRL"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
