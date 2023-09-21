@@ -61,7 +61,11 @@
 </ul>
 <hr>
 <h3> :pushpin: Ferramentas Utilizadas</h3>
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,typescript" />
+  </a>
+</p>
 <hr>
 <h2>:globe_with_meridians: Equipe de Desenvolvedores</h2>
   <table align="left">
