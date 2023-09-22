@@ -80,7 +80,7 @@
      <tr>
       <td>Bianca Tuchtler de Araujo</td>
         <td>
-          <img src= "" width="50px">
+          <img src= "https://avatars.githubusercontent.com/u/43883489?v=4" width="50px">
         </td>
       <td>Desenvolvedor(a)</td>
       <td><a href="https://github.com/biancatuchtler"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
