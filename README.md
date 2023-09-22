@@ -63,7 +63,7 @@
 <h3> :pushpin: Ferramentas Utilizadas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,typescript,slack,discord,teams" />
   </a>
 </p>
 <hr>
