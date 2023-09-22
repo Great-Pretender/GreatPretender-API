@@ -83,7 +83,7 @@
           <img src= "" width="50px">
         </td>
       <td>Desenvolvedor(a)</td>
-      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+      <td><a href="https://github.com/biancatuchtler"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
       <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
@@ -102,7 +102,7 @@
         </td>
       <td>Desenvolvedor(a)</td>
       <td><a href="https://github.com/GabrielDepiro"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+      <td><a href="https://www.linkedin.com/in/biancatuchtler"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
       <td>Guilherme Alves Cursino</td>
@@ -111,7 +111,7 @@
         </td>
         <td>Desenvolvedor(a)</td>
         <td><a href="https://github.com/guilherme0066"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-        <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
+        <td><a href="https://www.linkedin.com/in/gabriel-d-epiro-46828b211"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
      <tr>
      <tr>
