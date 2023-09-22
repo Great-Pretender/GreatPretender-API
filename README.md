@@ -12,8 +12,8 @@
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#arrows_counterclockwise-sprints"> Sprints</a>  • 
-    <a href =""> Ferramentas Utilizadas</a>  • 
-    <a href =""> Atividades Por Sprint </a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API/tree/main#-pushpin-ferramentas-utilizadas"> Ferramentas Utilizadas</a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API/tree/main#-clipboard-atividades-por-sprint"> Atividades Por Sprint </a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-product-backlog"> Backlog </a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-user-stories"> User Stories </a>  • 
 </p> 
