@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#globe_with_meridians-equipe-de-desenvolvedores"> Equipe </a>  •
-    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-objetivos-do-projeto"> Descrição do Projeto</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-dart-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#arrows_counterclockwise-sprints"> Sprints</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API/tree/main#-pushpin-ferramentas-utilizadas"> Ferramentas Utilizadas</a>  • 
@@ -18,7 +18,7 @@
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-user-stories"> User Stories </a>  • 
 </p> 
 <hr>
-<h3> :dart: Descrição do Projeto</h3>
+<h3> :page_facing_up: Descrição do Projeto</h3>
 <p>Sistema desenvolvido para controlar anomalias apontadas em um Laudo de Inspeção Predial e gerenciar manutenções preventivas e corretivas de não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos. 
 </p>
 <hr>
