@@ -154,7 +154,7 @@
         <td>
           <img src= "https://avatars.githubusercontent.com/u/56142288?v=4" width="50px">
         </td>
-        <td>Desenvolvedor</td>
+        <td>Scrum Master</td>
         <td><a href="https://github.com/VilRL"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
         <td><a href="https://www.linkedin.com/in/vitor-lima-36a1201a2/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/></a></td>
      </tr>
