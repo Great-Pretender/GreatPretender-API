@@ -40,7 +40,8 @@
 
 <table>
      <thead>
-         <th>SPRNT</th>
+         <tr><p>:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p></tr>
+         <th>SPRINT</th>
          <th>Data</th>
          <th>Status</th>
      </thead>
@@ -67,11 +68,7 @@
         </tr>
     </tbody>
 </table>
-<p>:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p>
-<p>:white_check_mark: <a href=""> Sprint 1 </a>- 04/09 À 24/09</p>
-<p>:construction: <a href=""> Sprint 2 </a> - 25/09 À 15/10</p>
-<p>:construction: <a href=""> Sprint 3 </a> - 16/10 À 05/11</p>
-<p>:construction: <a href=""> Sprint 4 </a> - 06/11 À 26/11</p>
+
 
 <hr>
 
