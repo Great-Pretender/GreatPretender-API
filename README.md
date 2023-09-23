@@ -37,6 +37,36 @@
 <hr>
 
 <h3>:arrows_counterclockwise: Sprints</h3>
+
+<table>
+     <thead>
+         <th>SPRNT</th>
+         <th>Data</th>
+         <th>Status</th>
+     </thead>
+    <tbody>
+        <tr>
+            <td><a href=""> Sprint 1 </a></td>
+            <td>04/09 À 24/09</td>
+            <td>Em andamento</td>
+        </tr>
+        <tr>
+            <td><a href=""> Sprint 2 </a></td>
+            <td>25/09 À 15/10</td>
+            <td>Não Iniciado</td>
+        </tr>
+        <tr>
+            <td><a href=""> Sprint 3 </a></td>
+            <td>16/10 À 05/11</td>
+            <td>Não Iniciado</td>
+        </tr>
+        <tr>
+            <td><a href=""> Sprint 4 </a></td>
+            <td> 06/11 À 26/11</td>
+            <td> Não Iniciado</td>
+        </tr>
+    </tbody>
+</table>
 <p>:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p>
 <p>:white_check_mark: <a href=""> Sprint 1 </a>- 04/09 À 24/09</p>
 <p>:construction: <a href=""> Sprint 2 </a> - 25/09 À 15/10</p>
