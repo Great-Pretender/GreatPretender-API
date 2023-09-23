@@ -37,9 +37,9 @@
 <hr>
 
 <h3>:arrows_counterclockwise: Sprints</h3>
-<p align="center">
-<p>:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p>
-<table>
+
+<p align="center">:white_check_mark: Kick-off do Projeto - 21/08 À 28/08</p>
+<table align="center">
      <thead>
          <th>SPRINT</th>
          <th>Data</th>
@@ -69,7 +69,6 @@
     </tbody>
 </table>
 
-</p>
 <hr>
 
 <h3> :bookmark_tabs: Product Backlog</h3>
