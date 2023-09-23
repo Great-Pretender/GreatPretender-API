@@ -24,13 +24,12 @@
 <hr>
 
 <h3> :dart: Requisitos do Cliente</h3>
-<p>Criar um sistema de Inspeção Predial com a finalidade de gerenciar manutenções preventivas e corretivas de edificações.</p>
 <ul>
-<li>Ordem de Serviços.</li>
-<li>Usuários devem ter perfis diferentes (responsável pelo cadastro, abertura de OS, Supervisor de Serviço e executor) Confirmação de cada etapa.</li>
+<li>Gerenciamento de Ordem de Serviços.</li>
+<li>Perfis para usuários (responsável pelo cadastro, abertura de OS, Supervisor de Serviço e executor) Confirmação de cada etapa.</li>
 <li>Método e regra: Seguir as etapas padrões na operação. Cadastro do cliente, níveis de inspeções, laudo de inspeção e controle dos níveis.</li>
 <li>Alçadas por responsáveis. Ex: Síndico, Zelador, engenheiro e outros.</li>
-<li>Cliente pode solicitar a prestação de serviço através de uma landing Page ou QRCODE.</li>
+<li>Solicitação de prestação de serviço através de uma landing Page ou QRCODE.</li>
 <li>Recepção da prestação de Serviço e direcionamento para o técnico responsável.</li>
 <li>Agendamento e envio da demanda aos responsáveis.</li>
 <li>Navegabilidade e Comunicação visuais user friend.</li>
