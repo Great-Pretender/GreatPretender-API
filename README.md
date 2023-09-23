@@ -18,8 +18,9 @@
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-user-stories"> User Stories </a>  • 
 </p> 
 <hr>
-<h3> :dart: Objetivos do Projeto</h3>
-<p>Criar um sistema de Inspeção Predial com a finalidade de gerenciar manutenções preventivas e corretivas de edificações.</p>
+<h3> :dart: Descrição do Projeto</h3>
+<p>Sistema desenvolvido para controlar anomalias apontadas em um Laudo de Inspeção Predial e gerenciar manutenções preventivas e corretivas de não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos. 
+</p>
 <hr>
 
 <h3> :dart: Requisitos do Cliente</h3>
