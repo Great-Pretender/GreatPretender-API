@@ -11,7 +11,45 @@
 </p> 
 <hr>
 <h3 align="center"> :page_facing_up: Atividades da Sprint</h3>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint1/documentos/atividades_sprint_1.png?raw=true" width="400" height="250" align="center"/>
+  <table align="left">
+    <thead>
+      <th>ID</th>
+      <th>Prioridade</th>
+      <th>Atividade</th>
+    </thead>
+    <tbody>
+     <tr>
+         <td>1</td>
+         <td style="background-color:red">1</td>
+         <td>Emissão de Laudo de Inspeção</td>
+     </tr>
+     <tr>
+         <td>2</td>
+         <td>1</td>
+         <td>Gerenciar Produto</td>
+     </tr>
+     <tr>
+         <td>3</td>
+         <td>1</td>
+         <td>Gerenciar Ordens de Serviço</td>
+     </tr>
+     <tr>
+         <td>4</td>
+         <td>1</td>
+         <td>Gerenciar Usuários</td>
+     </tr>
+     <tr>
+         <td>5</td>
+         <td>1</td>
+         <td>Gerenciar Clientes</td>
+     </tr>
+     <tr>
+         <td>6</td>
+         <td>1</td>
+         <td>Gerenciar Serviços</td>
+     </tr>
+    </tbody>
+  </table>
 <hr>
 
 <h3> :chart_with_downwards_trend: Burndown da Sprint 1/h3>
