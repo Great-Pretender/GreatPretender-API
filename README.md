@@ -14,8 +14,8 @@
     <a href ="https://github.com/Great-Pretender/GreatPretender-API#arrows_counterclockwise-sprints"> Sprints</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API/tree/main#-pushpin-ferramentas-utilizadas"> Ferramentas Utilizadas</a>  • 
     <a href ="https://github.com/Great-Pretender/GreatPretender-API/tree/main#-clipboard-atividades-por-sprint"> Atividades Por Sprint </a>  • 
-    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-product-backlog"> Backlog </a>  • 
-    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-pushpin-user-stories"> User Stories </a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-bookmark_tabs-product-backlog"> Backlog </a>  • 
+    <a href ="https://github.com/Great-Pretender/GreatPretender-API#-receipt-user-stories"> User Stories </a>  • 
 </p> 
 <hr>
 <h3> :page_facing_up: Descrição do Projeto</h3>
