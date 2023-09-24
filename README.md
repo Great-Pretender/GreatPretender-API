@@ -47,7 +47,7 @@
      </thead>
     <tbody>
         <tr>
-            <td><a href=""> Sprint 1 </a></td>
+            <td><a href="https://github.com/Great-Pretender/GreatPretender-API/tree/sprint1"> Sprint 1 </a></td>
             <td>04/09 À 24/09</td>
             <td>Em andamento</td>
         </tr>
