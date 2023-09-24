@@ -105,5 +105,5 @@
 </p>
 <hr>
 <h3>:pushpin: Links para os repositórios da aplicação </h3>
-<p>Clique para acessar: <a href="">Front End</a></p>
-<p>Clique para acessar: <a href="">Back End</a></p>
+<p>Clique para acessar: <a href="https://github.com/Great-Pretender/GreatPretender-Front/tree/main">Front End</a></p>
+<p>Clique para acessar: <a href="https://github.com/Great-Pretender/backend_great_pretender/tree/main">Back End</a></p>
