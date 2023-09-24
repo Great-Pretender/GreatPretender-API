@@ -73,9 +73,9 @@
     </tbody>
   </table>
 <p></p>
-<hr/>
+<hr align= "left"/>
 
-<h3> :chart_with_downwards_trend: Burndown da Sprint </h3>
+<h3 align= "left"> :chart_with_downwards_trend: Burndown da Sprint </h3>
  <img src="" width="400" height="250" align="center"/>
 <hr>
 
