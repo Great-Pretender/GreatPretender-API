@@ -12,7 +12,7 @@
 <hr>
 <h3> :page_facing_up: Atividades da Sprint</h3>
 <p>Para essa sprint, o principal foco foi desenvolver o cadastro, visando também todos os gerenciamentos necessários para sua confecção.</p>
-  <table align="center">
+  <table align="right">
     <thead>
       <th>ID</th>
       <th>Prioridade</th>
