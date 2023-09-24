@@ -11,7 +11,7 @@
 </p> 
 <hr>
 <h3> :page_facing_up: Atividades da Sprint</h3>
-<p>Para essa sprint, o principal foco foi desenvolver a tela de laudo, visando também todos os gerenciamentos necessários para que tornasse possível o cadastro do laudo por usuário.</p>
+<h5>Para essa sprint, o principal foco foi desenvolver o cadastro, visando também todos os gerenciamentos necessários para sua confecção.</h5>
   <table align="center">
     <thead>
       <th>ID</th>
