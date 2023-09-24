@@ -52,7 +52,7 @@
     </tbody>
       
   </table>
-    <table align="right">
+    <table align="center">
     <thead>
       <th>Prioridade</th>
       <th>Descrição</th>
