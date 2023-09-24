@@ -12,7 +12,6 @@
 <hr>
 <h3> :page_facing_up: Atividades da Sprint</h3>
 <p>Para essa sprint, o principal foco foi desenvolver a tela de laudo, visando também todos os gerenciamentos necessários para que tornasse possível o cadastro do laudo por usuário.</p>
-</p>
   <table align="left">
     <thead>
       <th>ID</th>
@@ -74,8 +73,6 @@
     </tbody>
   </table>
 <hr>
-<hr>
-
 <h3> :chart_with_downwards_trend: Burndown da Sprint </h3>
  <img src="" width="400" height="250" align="center"/>
 <hr>
