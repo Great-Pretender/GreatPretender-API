@@ -10,8 +10,8 @@
     <a href =""> Ferramentas Utilizadas</a>  • 
 </p> 
 <hr>
-<h3> :page_facing_up: Atividades da Sprint</h3>
-<img src="" width="400" height="250" align="center"/>
+<h3 align="center"> :page_facing_up: Atividades da Sprint</h3>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint1/documentos/atividades_sprint_1.png?raw=true" width="400" height="250" align="center"/>
 <hr>
 
 <h3> :chart_with_downwards_trend: Burndown da Sprint 1/h3>
