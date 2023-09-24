@@ -72,7 +72,7 @@
      </tr>
     </tbody>
   </table>
-<hr>
+<hr align="center">
 <h3> :chart_with_downwards_trend: Burndown da Sprint </h3>
  <img src="" width="400" height="250" align="center"/>
 <hr>
