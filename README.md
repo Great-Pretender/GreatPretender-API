@@ -11,7 +11,7 @@
 </p> 
 <hr>
 <h3> :page_facing_up: Atividades da Sprint</h3>
-  <table align="left">
+  <table align="center">
     <thead>
       <th>ID</th>
       <th>Prioridade</th>
