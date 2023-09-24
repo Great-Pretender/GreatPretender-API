@@ -10,7 +10,7 @@
     <a href =""> Ferramentas Utilizadas</a>  • 
 </p> 
 <hr>
-<h3 align="center"> :page_facing_up: Atividades da Sprint</h3>
+<h3> :page_facing_up: Atividades da Sprint</h3>
   <table align="left">
     <thead>
       <th>ID</th>
