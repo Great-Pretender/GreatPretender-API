@@ -32,7 +32,7 @@
      </tr>
     </tbody>
   </table>
-  <table align="left">
+  <table align="center">
     <thead>
       <th>ID</th>
       <th>Prioridade</th>
