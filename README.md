@@ -12,7 +12,7 @@
 <hr>
 <h3> :page_facing_up: Atividades da Sprint</h3>
 <p>Para essa sprint, o principal foco foi desenvolver o cadastro, visando também todos os gerenciamentos necessários para sua confecção.</p>
-<table align="right">
+<table>
     <thead>
       <th>Prioridade</th>
       <th>Descrição</th>
@@ -73,9 +73,6 @@
       
   </table>
 
-<p></p>
-<hr />
-<br>
 <h3 > :chart_with_downwards_trend: Burndown da Sprint </h3>
  <img src="" width="400" height="250" align="center"/>
 <hr>
