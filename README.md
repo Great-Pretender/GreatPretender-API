@@ -52,7 +52,7 @@
     </tbody>
       
   </table>
-<table align="left">
+<table align="center">
     <thead>
       <th>Prioridade</th>
       <th>Descrição</th>
@@ -72,7 +72,9 @@
      </tr>
     </tbody>
   </table>
-<hr align="center">
+<p></p>
+<hr/>
+
 <h3> :chart_with_downwards_trend: Burndown da Sprint </h3>
  <img src="" width="400" height="250" align="center"/>
 <hr>
