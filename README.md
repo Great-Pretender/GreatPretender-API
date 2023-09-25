@@ -75,23 +75,20 @@
 
 <h3>:desktop_computer: Funcionalidades</h3>
 <hr>
- <h3> Atribuição de Serviços </h3>
+ <h3> Atribuição de Serviços e Laudo</h3>
  <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/imgs/funcionalidade_sprint1.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
- <h3> Text </h3>
- <img src="" width="400" height="250" align="center"/>
+ <h3> Estruturar Banco de Dados </h3>
+ <p>Como plano de estruturação de banco foi estipulado como cada entidade se comportará dentro da apliclação. Cada Alçada(Setor) terá serviços que só podem ser executados por
+ responsáveis da área. A ordem de serviço possuirá um responsável(Usuário) por todos os serviços que foram atrelados àquela ordem. Usuários farão a inspeção(comentários e apontamentos) por atribuição. Para o laudo, todas as ordens de serviços finalizadas para o determinado cliente, serão atribuídos ao documento, de modo a informar todos os serviços realizados e dando enfoque as manuntenções preventivas e corretivas necessárias</p>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint1/documentos/MER.jpg?raw=true" width="800" height="500" align="center"/>
+ <a href="https://github.com/Great-Pretender/backend_great_pretender/blob/main/DDL.sql">Link para arquivo do Banco de Dados</a>
 <hr>
- <h3> Text </h3>
- <img src="" width="400" height="250" align="center"/>
 <hr>
- <h3> Text </h3>
- <img src="" width="400" height="250" align="center"/>
-<hr>
- <h3> Text </h3>
- <img src="" width="400" height="250" align="center"/>
-<hr>
- <h3> Text </h3>
- <img src="" width="400" height="250" align="center"/>
+ <h3> Estruturar Banco de Dados </h3>
+ <p>Todas as funcionalidades pré-laudo(Cadastro de Usuários, Cadastro de Cliente,Cadastro de Setores, Cadastro de Ordem de Servico, Atribuiçoes de Serviço, Cadastro de produto), já estão liberadas através de rotas</p>
+ <p>Conferir em:</p>
+ <a href="https://github.com/Great-Pretender/backend_great_pretender/tree/main">Back End</a>
 <hr>
 <h3> :pick: Ferramentas Utilizadas</h3>
 <p align="center">
