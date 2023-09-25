@@ -73,7 +73,7 @@
 
 <h3> :bookmark_tabs: Product Backlog</h3>
 <ul>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/backlog_do_produto.png?raw=true" width="800"/>
+<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/backlog.png?raw=true" width="800"/>
 </ul>
 <hr>
 <h3> :receipt: User Stories</h3>
