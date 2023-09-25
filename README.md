@@ -83,7 +83,7 @@
 <hr>
 <h3> :clipboard: Atividades por Sprint</h3>
 <ul>
-<img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/Planejamento%20das%20Sprints.png?raw=true" width="800"/>
+<img src="" width="800"/>
 </ul>
 <hr>
 <h3> :pushpin: Ferramentas Utilizadas</h3>
