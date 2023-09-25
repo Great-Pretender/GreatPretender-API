@@ -75,13 +75,13 @@
   </table>
 <hr>
 <h3 > :chart_with_downwards_trend: Burndown da Sprint </h3>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/burndown_sprint1.jpeg?raw=true" width="400" height="250" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/burndown_sprint1.jpeg?raw=true" width="800" height="500" align="center"/>
 <hr>
 
 <h3>:desktop_computer: Funcionalidades</h3>
 <hr>
  <h3> Atribuição de Serviços </h3>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/imgs/funcionalidade_sprint1.gif?raw=true" width="400" height="250" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/imgs/funcionalidade_sprint1.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
  <h3> Text </h3>
  <img src="" width="400" height="250" align="center"/>
