@@ -45,11 +45,6 @@
          <td>1</td>
          <td>Gerenciar Clientes</td>
      </tr>
-     <tr>
-         <td>6</td>
-         <td>1</td>
-         <td>Gerenciar Serviços</td>
-     </tr>
     </tbody>
       
   </table>
