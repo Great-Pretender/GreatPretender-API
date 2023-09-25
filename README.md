@@ -23,17 +23,17 @@
      <tr>
          <td>1</td>
          <td style="background-color:red">1</td>
-         <td>Emissão de Laudo de Inspeção</td>
+         <td>Atribuição de Serviços</td>
      </tr>
      <tr>
          <td>2</td>
          <td>1</td>
-         <td>Gerenciar Produto</td>
+         <td>Emissão de Laudo de Inspeção</td>
      </tr>
      <tr>
          <td>3</td>
          <td>1</td>
-         <td>Gerenciar Ordens de Serviço</td>
+         <td>Estruturar Banco de Dados</td>
      </tr>
      <tr>
          <td>4</td>
