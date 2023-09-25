@@ -85,8 +85,9 @@
  <a href="https://github.com/Great-Pretender/backend_great_pretender/blob/main/DDL.sql">Link para arquivo do Banco de Dados</a>
 <hr>
 <hr>
- <h3> Estruturar Banco de Dados </h3>
- <p>Todas as funcionalidades pré-laudo(Cadastro de Usuários, Cadastro de Cliente,Cadastro de Setores, Cadastro de Ordem de Servico, Atribuiçoes de Serviço, Cadastro de produto), já estão liberadas através de rotas</p>
+ <h3> Gerenciar Clientes e Gerenciar Usuários</h3>
+ <p>Todas as funcionalidades pré-laudo(Cadastro de Usuários, Cadastro de Cliente,Cadastro de Setores, Cadastro de Ordem de Servico, Atribuiçoes de Serviço, Cadastro de produto), já estão liberadas através de rotas (futuramente também serão implementadas visualmente
+     ao sistema)</p>
  <p>Conferir em:</p>
  <a href="https://github.com/Great-Pretender/backend_great_pretender/tree/main">Back End</a>
 <hr>
