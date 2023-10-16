@@ -49,12 +49,12 @@
         <tr>
             <td><a href="https://github.com/Great-Pretender/GreatPretender-API/tree/sprint1"> Sprint 1 </a></td>
             <td>04/09 À 24/09</td>
-            <td>Em andamento</td>
+            <td>Finalizado</td>
         </tr>
         <tr>
-            <td><a href=""> Sprint 2 </a></td>
+            <td><a href="https://github.com/Great-Pretender/GreatPretender-API/tree/sprint2"> Sprint 2 </a></td>
             <td>25/09 À 15/10</td>
-            <td>Não Iniciado</td>
+            <td>Finalizado</td>
         </tr>
         <tr>
             <td><a href=""> Sprint 3 </a></td>
