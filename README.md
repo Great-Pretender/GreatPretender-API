@@ -91,7 +91,7 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
   </table>
 <hr>
 <h3 > :chart_with_downwards_trend: Burndown da Sprint </h3>
- <img src="" width="800" height="500" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/burndown_sprint2.png?raw=true" width="800" height="500" align="center"/>
 <hr>
 
 <h3>:desktop_computer: Funcionalidades</h3>
