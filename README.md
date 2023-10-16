@@ -100,7 +100,7 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
  <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint2/imgs/landing_page.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
  <h3> Funcionalidades de Contrato (CRUD)</h3>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint2/imgs/crud_cliente.gif?raw=true" width="800" height="500" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint2/imgs/crud_contrato.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
  <h3> Funcionalidades de Cliente (CRUD)</h3>
  <p></p>
