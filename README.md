@@ -93,7 +93,6 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
 <h3 > :chart_with_downwards_trend: Burndown da Sprint </h3>
  <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/main/documentos/burndown_sprint2.png?raw=true" width="800" height="500" align="center"/>
 <hr>
-
 <h3>:desktop_computer: Funcionalidades</h3>
 <hr>
  <h3> Landing Page</h3>
@@ -119,6 +118,10 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
  <h3> Funcionalidades de Usuário (CRUD)</h3>
  <p></p>
  <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint2/imgs/crud_usuario.gif?raw=true" width="800" height="500" align="center"/>
+<hr>
+ <h3> Funcionalidades de Produto (CRUD)</h3>
+ <p></p>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint2/imgs/crud_produto.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
 
 <h3> :pick: Ferramentas Utilizadas</h3>
