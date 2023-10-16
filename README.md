@@ -1,4 +1,4 @@
-![image](https://github.com/Great-Pretender/GreatPretender-API/assets/79467858/0c74535b-5a8a-413e-a7d1-e1a3f5ecd1a6)<h1 align="center">SPRINT 2</h1>
+<h1 align="center">SPRINT 2</h1>
 <p align="center">
 </p>  
 <h2 align="center">Jaia</h2>
