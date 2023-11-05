@@ -46,7 +46,6 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
          <td>1</td>
          <td>Aprovação de ordem de serviço</td>
      </tr>
-    
     </tbody>
       
   </table>
