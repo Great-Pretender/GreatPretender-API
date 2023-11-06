@@ -12,7 +12,7 @@
 <hr>
 <h3> :page_facing_up: Atividades da Sprint</h3>
 <p>Para essa sprint, o principal foco foi desenvolver o
-as telas de cadastro, visando também todos os gerenciamentos necessários para sua confecção.</p>
+a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
 
   <table align="center">
     <thead>
