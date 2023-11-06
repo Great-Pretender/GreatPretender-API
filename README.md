@@ -4,7 +4,7 @@
 <h2 align="center">Jaia</h2>
 
 <p align="center">
-    <a href ="h"> Atividades da Sprint </a>  •
+    <a href =""> Atividades da Sprint </a>  •
     <a href =""> Burndown</a>  • 
     <a href =""> Funcionalidades</a>  • 
     <a href =""> Ferramentas Utilizadas</a>  • 
@@ -27,12 +27,12 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
          <td>Login e Logout</td>
      </tr>
     <tr>
-         <td>1</td>
+         <td>2</td>
          <td style="background-color:red">1</td>
          <td>Perfis de Usuário</td>
      </tr>
      <tr>
-         <td>2</td>
+         <td>3</td>
          <td>1</td>
          <td>Níveis de inspeção</td>
      </tr>
@@ -80,7 +80,7 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
  <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/2023-11-05_23-39-03.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
  <h3> Perfis de Usuário</h3>
- <img src="" width="800" height="500" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/perfis_de_usuario.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
  <h3> Níveis de Inspeções </h3>
  <p></p>
