@@ -77,7 +77,7 @@ as telas de cadastro, visando também todos os gerenciamentos necessários para 
 <hr>
  <h3> Login e Logout</h3>
  <p></p>
- <img src="" width="800" height="500" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/2023-11-05_23-39-03.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
  <h3> Perfis de Usuário</h3>
  <img src="" width="800" height="500" align="center"/>
