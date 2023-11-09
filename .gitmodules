@@ -1,3 +1,6 @@
 [submodule "backend_great_pretender"]
 	path = backend_great_pretender
 	url = https://github.com/Great-Pretender/backend_great_pretender.git
+[submodule "frontend_great_pretender"]
+	path = frontend_great_pretender
+	url = https://github.com/Great-Pretender/frontend_great_pretender.git
