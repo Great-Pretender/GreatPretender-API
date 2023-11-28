@@ -71,29 +71,29 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
   </table>
 <hr>
 <h3 > :chart_with_downwards_trend: Burndown da Sprint </h3>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/documentos/burndown_sprint3.png?raw=true" width="800" height="500" align="center"/>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
 <h3>:desktop_computer: Funcionalidades</h3>
 <hr>
  <h3> Login e Logout</h3>
  <p></p>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/2023-11-05_23-39-03.gif?raw=true" width="800" height="500" align="center"/>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
  <h3> Perfis de Usuário</h3>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/perfis_de_usuario.gif?raw=true" width="800" height="500" align="center"/>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
  <h3> Níveis de Inspeções </h3>
  <p></p>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/nivel_de_inspecao.gif?raw=true" width="800" height="500" align="center"/>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
 <hr>
  <h3> Atribuição de ordem de serviço</h3>
  <p></p>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/atribuir_ordem.gif?raw=true" width="800" height="500" align="center"/>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
  <h3> Aprovação de ordem de serviço</h3>
  <p></p>
- <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint3/imgs/atribuicao_de_servicos.gif?raw=true" width="800" height="500" align="center"/>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
 
 <h3> :pick: Ferramentas Utilizadas</h3>
