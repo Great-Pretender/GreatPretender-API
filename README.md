@@ -34,7 +34,7 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
      <tr>
          <td>3</td>
          <td>1</td>
-         <td>Níveis de inspeção</td>
+         <td>Laudo de Inspeção Predial</td>
      </tr>
      <tr>
          <td>4</td>
