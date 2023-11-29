@@ -83,7 +83,7 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
 <hr>
  <h3> Navegabilidade e Comunicação User Friend </h3>
  <p></p>
- <img src="" width="800" height="500" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint4/imgs/comunicacao_navegabilidade.gif?raw=true" width="800" height="500" align="center"/>
 <hr>
 
 <h3> :pick: Ferramentas Utilizadas</h3>
