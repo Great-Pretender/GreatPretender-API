@@ -75,7 +75,7 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
 <hr>
 <h3>:desktop_computer: Funcionalidades</h3>
 <hr>
- <h3> Login e Logout</h3>
+ <h3> Restrição de Acesso por Cargo</h3>
  <p></p>
  <img src="" width="800" height="500" align="center"/>
 <hr>
@@ -91,7 +91,7 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
  <p></p>
  <img src="" width="800" height="500" align="center"/>
 <hr>
- <h3> Aprovação de ordem de serviço</h3>
+ <h3> Navegabilidade e Comunicação User Friend </h3>
  <p></p>
  <img src="" width="800" height="500" align="center"/>
 <hr>
