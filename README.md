@@ -24,12 +24,12 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
      <tr>
          <td>1</td>
          <td style="background-color:red">1</td>
-         <td>Login e Logout</td>
+         <td>Restrição de Acesso por Cargo</td>
      </tr>
     <tr>
          <td>2</td>
          <td style="background-color:red">1</td>
-         <td>Perfis de Usuário</td>
+         <td>Navegabilidade e Comunicação User Friend</td>
      </tr>
      <tr>
          <td>3</td>
