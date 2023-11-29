@@ -69,21 +69,13 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
  <p></p>
  <img src="" width="800" height="500" align="center"/>
 <hr>
- <h3> Perfis de Usuário</h3>
- <img src="" width="800" height="500" align="center"/>
-<hr>
- <h3> Níveis de Inspeções </h3>
- <p></p>
- <img src="" width="800" height="500" align="center"/>
-<hr>
-<hr>
- <h3> Atribuição de ordem de serviço</h3>
- <p></p>
- <img src="" width="800" height="500" align="center"/>
-<hr>
  <h3> Navegabilidade e Comunicação User Friend </h3>
  <p></p>
  <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint4/imgs/comunicacao_navegabilidade.gif?raw=true" width="800" height="500" align="center"/>
+<hr>
+ <h3> Laudo de Inspeção Predial </h3>
+ <p></p>
+ <img src="" width="800" height="500" align="center"/>
 <hr>
 
 <h3> :pick: Ferramentas Utilizadas</h3>
