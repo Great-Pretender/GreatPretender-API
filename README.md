@@ -75,7 +75,7 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
 <hr>
  <h3> Laudo de Inspeção Predial </h3>
  <p></p>
- <img src="" width="800" height="500" align="center"/>
+ <img src="https://github.com/Great-Pretender/GreatPretender-API/blob/sprint4/imgs/LaudoGif.gif" width="800" height="500" align="center"/>
 <hr>
 
 <h3> :pick: Ferramentas Utilizadas</h3>
