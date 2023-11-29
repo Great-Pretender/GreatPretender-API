@@ -23,28 +23,18 @@ a tela de Login, bem como atribuição de ordens e perfis à usuários.</p>
     <tbody>
      <tr>
          <td>1</td>
-         <td style="background-color:red">1</td>
+         <td style="background-color:red">2</td>
          <td>Restrição de Acesso por Cargo</td>
      </tr>
     <tr>
          <td>2</td>
-         <td style="background-color:red">1</td>
+         <td style="background-color:red">3</td>
          <td>Navegabilidade e Comunicação User Friend</td>
      </tr>
      <tr>
          <td>3</td>
          <td>1</td>
          <td>Laudo de Inspeção Predial</td>
-     </tr>
-     <tr>
-         <td>4</td>
-         <td>1</td>
-         <td>Atribuição de ordem de serviço</td>
-     </tr>
-     <tr>
-         <td>5</td>
-         <td>1</td>
-         <td>Aprovação de ordem de serviço</td>
      </tr>
     </tbody>
       
